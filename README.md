@@ -12,6 +12,6 @@ Here I learnt an important lesson, that you should adhere to the Scout Rule-alwa
 
 Furthermore, I learned to eliminate excess lines of code while refactoring. 
 
-## Landing Page Image
+## Horiseon Landing Page
 
 ![Horiseon Landing Page](Assets/landingpage.png)
