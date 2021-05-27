@@ -12,10 +12,6 @@ Here I learnt an important lesson, that you should adhere to the Scout Rule-alwa
 
 Furthermore, I learned to eliminate excess lines of code while refactoring. 
 
-## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+## Landing Page Image
 
-```md
-![Horiseon Landing Page](https://github.com/DavidSzamek/Horiseon-Landing-Page/blob/main/Assets/landingpage.png)
-```
+![Horiseon Landing Page](Assets/landingpage.png)
